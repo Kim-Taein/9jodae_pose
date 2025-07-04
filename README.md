@@ -53,12 +53,3 @@ bash run_train.sh
 ```
 bash run_demo.sh
 ```
-  
-```
-@inproceedings{Artacho_2020_CVPR,
-title = {UniPose: Unified Human Pose Estimation in Single Images and Videos},
-author = {Artacho, Bruno and Savakis, Andreas},
-booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-year = {2020}
-}
-```
